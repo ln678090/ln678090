@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nguyễn Phúc Lâm 👋</h1>
+<h1 align="center">Hi, I'm Nguyen Phuc Lam 👋</h1>
 <h3 align="center">Backend Developer Intern · Java · Spring Boot · Building scalable systems</h3>
 
 <p align="center">
