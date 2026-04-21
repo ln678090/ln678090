@@ -109,7 +109,6 @@ Microservice-style chat system integrated with ConnectHub via shared JWT.
 
 - 📧 **Email:** [ln678090@gmail.com](mailto:ln678090@gmail.com)
 - 📱 **Phone:** 0372 505 551
-- 📍 **Location:** Duy Tiên, Ninh Bình, Vietnam
 
 <p align="center">
   <i>Open to Backend Java Internship opportunities — Let's build something great together! 🚀</i>
