@@ -5,7 +5,7 @@
   <a href="mailto:ln678090@gmail.com"><img src="https://img.shields.io/badge/Gmail-ln678090%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ln678090"><img src="https://img.shields.io/badge/GitHub-ln678090-181717?style=flat&logo=github"/></a>
   <img src="https://img.shields.io/badge/Phone-0372505551-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Duy%20Ti%C3%AAn%2C%20Ninh%20B%C3%ACnh-blue?style=flat&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Long%20Bien%2C%20Hanoi-blue?style=flat&logo=google-maps&logoColor=white"/>
 </p>
 
 ---
@@ -14,8 +14,7 @@
 
 I'm a **Backend Developer** passionate about building robust, secure, and scalable systems with **Java & Spring Boot**. Currently pursuing **Software Development at FPT Polytechnic** (GPA: **9.0/10** — Top student 4 semesters).
 
-> 💡 **Short-term goal:** Complete my internship and contribute real value to the team.
-> 🚀 **Long-term goal:** Become a full-fledged Backend Developer within 1–2 years, growing alongside a great company.
+
 
 ---
 
@@ -108,7 +107,7 @@ Microservice-style chat system integrated with ConnectHub via shared JWT.
 ## 📫 Get In Touch
 
 - 📧 **Email:** [ln678090@gmail.com](mailto:ln678090@gmail.com)
-- 📱 **Phone:** 0372 505 551
+- 📱 **Phone:** 0974501927
 
 <p align="center">
   <i>Open to Backend Java Internship opportunities — Let's build something great together! 🚀</i>
