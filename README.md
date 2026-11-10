@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:ln678090@gmail.com"><img src="https://img.shields.io/badge/Gmail-ln678090%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ln678090"><img src="https://img.shields.io/badge/GitHub-ln678090-181717?style=flat&logo=github"/></a>
-  <img src="https://img.shields.io/badge/Phone-0372505551-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-0974501927-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Location-Long%20Bien%2C%20Hanoi-blue?style=flat&logo=google-maps&logoColor=white"/>
 </p>
 
